@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KFW+6XjqOjBs65inlItmLzP7hwJ7Ewy5w7tfVhVVLWk=",
+  "Source": "Lakshmi.Api.Web",
+  "BasePath": "_content/Lakshmi.Api.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

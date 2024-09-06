@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lakshmi.Api.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d56969699a51139a5a26dce0db74a012a1a6467")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87fe0135931694f153b92ffddb20f9a0fa697181")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lakshmi.Api.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lakshmi.Api.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

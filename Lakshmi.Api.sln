@@ -5,9 +5,11 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lakshmi.Api.Web", "Lakshmi.Api.Web\Lakshmi.Api.Web.csproj", "{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lakshmi.Api.Infrastructure", "Lakshmi.Api.Infrastructure\Lakshmi.Api.Infrastructure.csproj", "{83E1FBEF-DBA0-4773-BA4A-304B8E059292}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lakshmi.Api.Infrastructure", "Lakshmi.Api.Infrastructure\Lakshmi.Api.Infrastructure.csproj", "{83E1FBEF-DBA0-4773-BA4A-304B8E059292}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lakshmi.Api.Domain", "Lakshmi.Api.Domain\Lakshmi.Api.Domain.csproj", "{AF09BEA7-40D5-4281-AC7B-D58AC305969F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lakshmi.Api.Domain", "Lakshmi.Api.Domain\Lakshmi.Api.Domain.csproj", "{AF09BEA7-40D5-4281-AC7B-D58AC305969F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DE7F9D3E-D63F-46EA-982E-009434F1E0E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +32,11 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A22B804D-27FC-4B4B-89C5-67F2FAA1289D} = {DE7F9D3E-D63F-46EA-982E-009434F1E0E4}
+		{83E1FBEF-DBA0-4773-BA4A-304B8E059292} = {DE7F9D3E-D63F-46EA-982E-009434F1E0E4}
+		{AF09BEA7-40D5-4281-AC7B-D58AC305969F} = {DE7F9D3E-D63F-46EA-982E-009434F1E0E4}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {03C7472D-AAC9-4189-9B8E-81D8E6AA3B08}

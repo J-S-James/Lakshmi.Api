@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Lakshmi.Api.Web.props" />
+</Project>

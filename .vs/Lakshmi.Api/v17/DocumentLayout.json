@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "E:\\Projects\\Lakshmi.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|e:\\projects\\lakshmi.api\\lakshmi.api.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|solutionrelative:lakshmi.api.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|e:\\projects\\lakshmi.api\\lakshmi.api.web\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|solutionrelative:lakshmi.api.web\\controllers\\v1\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AF09BEA7-40D5-4281-AC7B-D58AC305969F}|Lakshmi.Api.Domain\\Lakshmi.Api.Domain.csproj|e:\\projects\\lakshmi.api\\lakshmi.api.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF09BEA7-40D5-4281-AC7B-D58AC305969F}|Lakshmi.Api.Domain\\Lakshmi.Api.Domain.csproj|solutionrelative:lakshmi.api.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|solutionrelative:lakshmi.api.web\\lakshmi.api.web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|e:\\projects\\lakshmi.api\\lakshmi.api.web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|solutionrelative:lakshmi.api.web\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|e:\\projects\\lakshmi.api\\lakshmi.api.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|solutionrelative:lakshmi.api.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|e:\\projects\\lakshmi.api\\lakshmi.api.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A22B804D-27FC-4B4B-89C5-67F2FAA1289D}|Lakshmi.Api.Web\\Lakshmi.Api.Web.csproj|solutionrelative:lakshmi.api.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Web\\Controllers\\V1\\AccountController.cs",
+              "RelativeDocumentMoniker": "Lakshmi.Api.Web\\Controllers\\V1\\AccountController.cs",
+              "ToolTip": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Web\\Controllers\\V1\\AccountController.cs",
+              "RelativeToolTip": "Lakshmi.Api.Web\\Controllers\\V1\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:12:54.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Account.cs",
               "DocumentMoniker": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Domain\\Entities\\Account.cs",
               "RelativeDocumentMoniker": "Lakshmi.Api.Domain\\Entities\\Account.cs",
@@ -50,12 +63,11 @@
               "RelativeToolTip": "Lakshmi.Api.Domain\\Entities\\Account.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T16:18:01.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-19T16:18:01.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Category.cs",
               "DocumentMoniker": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Domain\\Entities\\Category.cs",
               "RelativeDocumentMoniker": "Lakshmi.Api.Domain\\Entities\\Category.cs",
@@ -63,12 +75,11 @@
               "RelativeToolTip": "Lakshmi.Api.Domain\\Entities\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T22:58:53.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T22:58:53.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Web\\appsettings.json",
               "RelativeDocumentMoniker": "Lakshmi.Api.Web\\appsettings.json",
@@ -76,12 +87,11 @@
               "RelativeToolTip": "Lakshmi.Api.Web\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-11T22:48:23.405Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T22:48:23.405Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Lakshmi.Api.Web.http",
               "DocumentMoniker": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Web\\Lakshmi.Api.Web.http",
               "RelativeDocumentMoniker": "Lakshmi.Api.Web\\Lakshmi.Api.Web.http",
@@ -89,12 +99,11 @@
               "RelativeToolTip": "Lakshmi.Api.Web\\Lakshmi.Api.Web.http",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-11T22:48:08.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T22:48:08.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Transaction.cs",
               "DocumentMoniker": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Domain\\Entities\\Transaction.cs",
               "RelativeDocumentMoniker": "Lakshmi.Api.Domain\\Entities\\Transaction.cs",
@@ -102,25 +111,11 @@
               "RelativeToolTip": "Lakshmi.Api.Domain\\Entities\\Transaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T22:43:37.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T22:43:37.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Web\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Lakshmi.Api.Web\\Controllers\\WeatherForecastController.cs",
-              "ToolTip": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Web\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Lakshmi.Api.Web\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T22:31:55.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\Projects\\Lakshmi.Api\\Lakshmi.Api.Web\\Program.cs",
               "RelativeDocumentMoniker": "Lakshmi.Api.Web\\Program.cs",

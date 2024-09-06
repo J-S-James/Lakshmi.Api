@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lakshmi.Api.Web.props" />
+</Project>

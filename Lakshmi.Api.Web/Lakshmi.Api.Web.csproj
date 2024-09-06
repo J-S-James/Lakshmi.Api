@@ -16,7 +16,6 @@
   <ItemGroup>
     <Folder Include="Contracts\V1\Responses\" />
     <Folder Include="Contracts\V1\Requests\" />
-    <Folder Include="Controllers\V1\" />
   </ItemGroup>
 
 </Project>
